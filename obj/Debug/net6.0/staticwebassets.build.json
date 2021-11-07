@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "EYMgCYRjAMgEARQGstNqR4YHkiYCLhpFFsObtBeS0MA=",
+  "Source": "FirstApp",
+  "BasePath": "_content/FirstApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FirstApp\\wwwroot",
+      "Source": "FirstApp",
+      "ContentRoot": "C:\\Users\\ec133\\FirstApp\\wwwroot\\",
+      "BasePath": "_content/FirstApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ec133\\FirstApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FirstApp.styles.css",
+      "SourceId": "FirstApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ec133\\FirstApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/FirstApp",
+      "RelativePath": "FirstApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ec133\\FirstApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FirstApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ec133\\FirstApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FirstApp.bundle.scp.css",
+      "SourceId": "FirstApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ec133\\FirstApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/FirstApp",
+      "RelativePath": "FirstApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ec133\\FirstApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FirstApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ec133\\FirstApp\\wwwroot\\favicon.ico",
+      "SourceId": "FirstApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ec133\\FirstApp\\wwwroot\\",
+      "BasePath": "_content/FirstApp",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

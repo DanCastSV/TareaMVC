@@ -1,0 +1,11 @@
+<h1>Pagina Personal</h1>
+<div class="text-center">
+  <img src="https://scontent.fsal1-1.fna.fbcdn.net/v/t39.30808-6/237117212_4254811151266675_4886654368842533008_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=H6K-FgBpIsAAX-JvuDX&_nc_ht=scontent.fsal1-1.fna&oh=f8467fbf31931e9425ce4f79b38c1f20&oe=618C32DD" alt="" width="350" height="400" />
+</div>
+
+@model Personal
+
+@Html.LabelFor(m=>m.name, "Nombre"): @Model.name
+@Html.LabelFor(m=>m.lastname, " Apellido"): @Model.lastname
+@Html.LabelFor(m=>m.age, " Edad"): @Model.age
+
